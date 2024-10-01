@@ -81,8 +81,12 @@
 <br>
 <div align=center>
 
-&nbsp;&nbsp;![LOC Langs](https://api.githubtrends.io/user/svg/nguyennanhcd/langs?time_range=one_year&include_private=True&theme=dark)
-&nbsp;&nbsp;![LOC Repos](https://api.githubtrends.io/user/svg/nguyennanhcd/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+  <a href="#" title="nguyennanhcd">
+    <img width="315" align="center" src="https://api.githubtrends.io/user/svg/nguyennanhcd/langs?time_range=one_year&include_private=True&theme=dark" />
+  </a>
+  <a href="#" title="nguyennanhcd">
+    <img align="right" width="315" src="https://api.githubtrends.io/user/svg/nguyennanhcd/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" />
+  </a>
 
 </div>
 
