@@ -66,17 +66,19 @@
   </a>
 </div>
 
-### 🚀 Projects
-
+<br>
+<h2 align="center"> 🚀 Projects </h2>
+<br>
 <div align=center>
 
-[![Frontend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=frontend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/frontend-Ecommerce)
+&nbsp;&nbsp;[![Frontend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=frontend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/frontend-Ecommerce)
 [![Backend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=backend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/backend-Ecommerce)
 
 </div>
 
-### 📝 Lines of Code
-
+<br>
+<h2 align="center"> 📝 Lines of Code </h2>
+<br>
 <div align=center>
 
 &nbsp;&nbsp;![LOC Langs](https://api.githubtrends.io/user/svg/nguyennanhcd/langs?time_range=one_year&include_private=True&theme=dark)
@@ -84,7 +86,9 @@
 
 </div>
 
-### 🔥 Streak
+<br>
+<h2 align="center"> 🔥 Streak </h2>
+<br>
 
 <div align=center>
 
