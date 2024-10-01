@@ -68,18 +68,29 @@
 
 ### 🚀 Projects
 
-[![Frontend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=frontend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/frontend-Ecommerce)
+<div align=center>
 
+[![Frontend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=frontend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/frontend-Ecommerce)
 [![Backend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=backend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/backend-Ecommerce)
+
+</div>
 
 ### 📝 Lines of Code
 
-![LOC Langs](https://api.githubtrends.io/user/svg/nguyennanhcd/langs?time_range=one_year&include_private=True&theme=dark)
-![LOC Repos](https://api.githubtrends.io/user/svg/nguyennanhcd/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+<div align=center>
+
+&nbsp;&nbsp;![LOC Langs](https://api.githubtrends.io/user/svg/nguyennanhcd/langs?time_range=one_year&include_private=True&theme=dark)
+&nbsp;&nbsp;![LOC Repos](https://api.githubtrends.io/user/svg/nguyennanhcd/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+
+</div>
 
 ### 🔥 Streak
 
+<div align=center>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=nguyennanhcd&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)
+
+</div>
 
 ---
 
