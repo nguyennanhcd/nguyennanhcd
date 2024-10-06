@@ -87,14 +87,6 @@
 </div>
 
 <br>
-<h2 align="center"> 👨🏽‍💻 Coding time </h2>
-<br>
-
-<div align="center" style="border: 2px solid #eaeaea; padding: 10px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://wakatime.com/share/@nguyennanhcd/98cf27ba-af0b-46c7-8dd4-dcfcb850838f.svg" alt="WakaTime Stats"/>
-</div>
-
-<br>
 <h2 align="center"> 🔥 Streak </h2>
 <br>
 
