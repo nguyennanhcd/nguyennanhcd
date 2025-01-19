@@ -98,10 +98,10 @@
 
 ## 💬 My Favorite Quotes
 
-<div style=" height: 50px; display: flex; justify-content: center; align-items: center; border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: rgb(28, 26, 26); color: white;">
+<center style=" height: 50px; display: flex; justify-content: center; align-items: center; border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: rgb(28, 26, 26); color: white;">
   <span style="font-size: 15px;">" Doubt kills more dreams than failure ever will. "</span>
   
-</div>
+</center>
 
 ---
 
