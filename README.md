@@ -25,9 +25,9 @@
 
 - 🏠 Location: Ho Chi Minh City, the most vibrant and charming city in Vietnam.
 
-- 🥖 Favorite Food: Banhmi with extra JavaScript toppings
+- 🥖 Favourite Food: Banhmi with extra JavaScript toppings
 
-- 💻 Specializing in: Backend development using Node.js and Frontend development with Next.js and TypeScript.
+- 💻 Specialising in: Backend development using Node.js and Frontend development with Next.js and TypeScript.
 
 ---
 
@@ -36,6 +36,7 @@
   Technologies
 </h3>
 
+![GoLang](https://img.shields.io/badge/GoLang-black?style=flat&logo=go&logoColor=00ADD8)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-black?style=flat&logo=Typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
