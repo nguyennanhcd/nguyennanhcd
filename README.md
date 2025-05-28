@@ -46,7 +46,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat&logo=Redux&logoColor=764ABC)
 ![Sass](https://img.shields.io/badge/Sass-black?style=flat&logo=Sass&logoColor=CC6699)
