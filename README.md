@@ -45,6 +45,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat&logo=Redux&logoColor=764ABC)
 ![Sass](https://img.shields.io/badge/Sass-black?style=flat&logo=Sass&logoColor=CC6699)
@@ -54,6 +56,11 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=2496ED)
 ![Github](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=00000)
 ![Eslint](https://img.shields.io/badge/Eslint-black?style=flat&logo=Eslint&logoColor=4B32C3)
+![Prettier](https://img.shields.io/badge/Prettier-black?style=flat&logo=prettier&logoColor=F7B731)
+![Webpack](https://img.shields.io/badge/Webpack-black?style=flat&logo=webpack&logoColor=8DD6F9)
+![Babel](https://img.shields.io/badge/Babel-black?style=flat&logo=babel&logoColor=F9DC3E)
+![npm](https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=CB3837)
+![Yarn](https://img.shields.io/badge/Yarn-black?style=flat&logo=yarn&logoColor=2C8EBB)
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
