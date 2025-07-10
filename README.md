@@ -78,8 +78,8 @@
 <br>
 <div align=center>
 
-&nbsp;&nbsp;[![Frontend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=frontend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/frontend-Ecommerce)
-[![Backend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=backend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/backend-Ecommerce)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=Portfolio&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/Portfolio)
+
 
 </div>
 
@@ -89,7 +89,9 @@
 <div align=center>
 
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=Portfolio&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/Portfolio)
++! [LOC Langs] (https://api.githubtrends .io/user/svg/nguyennanhcd/langs?time _range=one_year&include_private=True& theme=dark)
+
+78 +! [LOC Repos) (https://api.githubtrends .io/user/svg/nguyennanhcd/repos?time _range=one_year&include_private=True& group=other&loc_metric=changed&theme= dark)
 
 
 </div>
