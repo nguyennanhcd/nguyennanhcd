@@ -73,9 +73,9 @@
 <h2 align="center"> 🚀 Projects </h2>
 
 <div align="center">
-  &nbsp;&nbsp;[![Frontend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=frontend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/frontend-Ecommerce)  
-[![Backend Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=backend-Ecommerce&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/backend-Ecommerce)  
+   
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=Portfolio&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/Portfolio)
+</div>
 
 ---
 
