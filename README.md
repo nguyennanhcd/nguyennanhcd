@@ -88,8 +88,9 @@
 <br>
 <div align=center>
 
-&nbsp;&nbsp;![LOC Langs](https://api.githubtrends.io/user/svg/nguyennanhcd/langs?time_range=one_year&include_private=True&theme=dark)
-&nbsp;&nbsp;![LOC Repos](https://api.githubtrends.io/user/svg/nguyennanhcd/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=Portfolio&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/Portfolio)
+
 
 </div>
 
