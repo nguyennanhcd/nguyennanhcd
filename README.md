@@ -91,7 +91,7 @@
 <h2 align="center"> 🔥 Streak </h2>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nguyennanhcd&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)]
+  <img src=" https://streak-stats.demolab.com?user=nguyennanhcd&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee"/>
 </div>
 
 ---
