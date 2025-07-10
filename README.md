@@ -89,9 +89,9 @@
 <div align=center>
 
 
-+! [LOC Langs] (https://api.githubtrends .io/user/svg/nguyennanhcd/langs?time _range=one_year&include_private=True& theme=dark)
++! [LOC Langs] (https://api.githubtrends.io/user/svg/nguyennanhcd/langs?time _range=one_year&include_private=True& theme=dark)
 
-78 +! [LOC Repos) (https://api.githubtrends .io/user/svg/nguyennanhcd/repos?time _range=one_year&include_private=True& group=other&loc_metric=changed&theme= dark)
+ +! [LOC Repos) (https://api.githubtrends.io/user/svg/nguyennanhcd/repos?time _range=one_year&include_private=True& group=other&loc_metric=changed&theme= dark)
 
 
 </div>
