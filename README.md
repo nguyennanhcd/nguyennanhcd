@@ -59,7 +59,7 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
   <a href="https://github.com/nguyennanhcd">
     <img
       width="315"
@@ -69,13 +69,10 @@
   <a href="https://github.com/nguyennanhcd">
     <img
       width="315"
-      height="300"
       src="https://github-readme-stats.vercel.app/api?username=nguyennanhcd&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
     />
   </a>
 </div>
-
-
 
 ---
 
