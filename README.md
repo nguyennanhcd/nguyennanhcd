@@ -64,7 +64,6 @@
     <img
       width="157"
       height="100"
-      style="object-fit: cover;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennanhcd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
     />
   </a>
@@ -72,7 +71,6 @@
     <img
       width="157"
       height="100"
-      style="object-fit: cover;"
       src="https://github-readme-stats.vercel.app/api?username=nguyennanhcd&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
     />
   </a>
