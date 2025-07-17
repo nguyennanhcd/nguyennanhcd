@@ -59,8 +59,8 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <div style="height: 200px; width: 315px; overflow: hidden;">
+<div align="center" style="display: flex; justify-content: center; gap: 8px;">
+  <div style="height: 100px; width: 157px; overflow: hidden;">
     <a href="https://github.com/nguyennanhcd">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennanhcd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
@@ -69,7 +69,7 @@
     </a>
   </div>
 
-  <div style="height: 200px; width: 315px; overflow: hidden;">
+  <div style="height: 100px; width: 157px; overflow: hidden;">
     <a href="https://github.com/nguyennanhcd">
       <img
         src="https://github-readme-stats.vercel.app/api?username=nguyennanhcd&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
@@ -78,6 +78,7 @@
     </a>
   </div>
 </div>
+
 
 
 ---
